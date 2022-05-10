@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Saroz-Port/static/css/main.69d31349.css",
+    "main.js": "/Saroz-Port/static/js/main.b6edefdc.js",
+    "static/js/787.4a12dff8.chunk.js": "/Saroz-Port/static/js/787.4a12dff8.chunk.js",
+    "static/media/pics.jpg": "/Saroz-Port/static/media/pics.7c87656ec7aa68894aaa.jpg",
+    "static/media/home.svg": "/Saroz-Port/static/media/home.b47d69d96ef06f40f7046b9ea13f1d0b.svg",
+    "index.html": "/Saroz-Port/index.html",
+    "main.69d31349.css.map": "/Saroz-Port/static/css/main.69d31349.css.map",
+    "main.b6edefdc.js.map": "/Saroz-Port/static/js/main.b6edefdc.js.map",
+    "787.4a12dff8.chunk.js.map": "/Saroz-Port/static/js/787.4a12dff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d31349.css",
+    "static/js/main.b6edefdc.js"
+  ]
+}
